@@ -1,0 +1,41 @@
+P{
+  font-family:Arial;
+  margin-bottom:0;
+  margin-top: 0;
+}
+.kutta{
+  width:300px;
+  display:inline-block;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.suar{
+  width:300px;
+  height:300px;
+  margin-bottom: 8px;
+ 
+}
+.haggu{
+  font-size: 17px;
+  font-weight: bold;
+}
+.tatti{
+  color:rgb(154, 138, 138);
+}
+.sala{ 
+  background-color: rgb(14, 160, 214);
+  color:white;
+  font-size:14px;
+  font-weight:bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+.haggu,
+.tatti,
+.sala{
+  margin-left:10px;
+  margin-bottom:9px;
+  border:none;
+  border-radius:8px;
+}
